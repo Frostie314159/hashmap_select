@@ -1,12 +1,11 @@
 [package]
 name = "hashmap_select"
-version = "0.1.1"
+version = "0.1.2"
 edition = "2021"
 license = "MIT"
 description = "A wrapper around dialoguer select for use with hashmaps."
 readme = "README.md"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+repository = "https://github.com/Frostie314159/hashmap_select"
 
 [dependencies]
 dialoguer = "0.10.4"
